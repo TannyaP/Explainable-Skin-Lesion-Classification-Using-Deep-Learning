@@ -1,0 +1,13 @@
+## Technologies Used
+
+* Python
+* PyTorch
+* Torchvision
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn
+* OpenCV
+* Pillow
+* Gradio
+* Jupyter Notebook / Google Colab
